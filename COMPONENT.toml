@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-pacman"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-pacman component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
